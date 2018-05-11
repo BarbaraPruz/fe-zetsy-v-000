@@ -43,6 +43,9 @@ header {
 	max-width: 100%;
 	border: 5px #98ada6 solid;
 }
+section h1 {
+  color: #6f7f7a;
+}
 
 #press img {
 	width: 24%;
