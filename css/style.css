@@ -55,6 +55,9 @@ header {
   color: #1783bb;
   text-decoration: none;
 }
+#about a:hover {
+  text-decoration:underline;
+}
 /* Press Section Styling */
 #press img {
 	width: 24%;
