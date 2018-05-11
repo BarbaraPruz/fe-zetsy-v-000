@@ -35,8 +35,8 @@ header h1 {
   margin-bottom: 10px;
 }
 header {
-  border-bottom: 2px solid red;
-  margin-bottom: 2px;
+  border-bottom: 2px solid #98ada6;
+  margin-bottom: 5px;
 }
 
 #featured-product img {
