@@ -67,6 +67,9 @@ header {
 	margin-left: 0;
 }
 
+#press a img:hover {
+  border-color: red;
+}
 /* Footer Styling */
 footer {
   font-size: 0.75em;
