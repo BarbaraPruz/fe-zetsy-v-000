@@ -36,6 +36,7 @@ header h1 {
 }
 header {
   border-bottom: 2px solid red;
+  margin-bottom: 2px;
 }
 
 #featured-product img {
