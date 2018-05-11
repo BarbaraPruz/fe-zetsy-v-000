@@ -50,6 +50,11 @@ header {
 	border: 5px #98ada6 solid;
 }
 
+/* about styling */
+#about a {
+  color: #1783bb;
+  text-decoration: none;
+}
 /* Press Section Styling */
 #press img {
 	width: 24%;
